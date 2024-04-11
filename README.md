@@ -18,7 +18,3 @@ Three types of GANs were investigated in this project:
 3. Wasserstein GAN (WGAN)
 
 These GANs were trained to generate synthetic EEG and EMG data that mimic the patterns observed in real brain and muscle signals during Motor Imagery tasks and EM-GAN focusing on generating synthetic electromyography (EMG) signals.
-
-## Results
-
-The results indicated that while all three types of GANs were able to capture prominent features from the original EEG and EM-GAN for EMG data.
